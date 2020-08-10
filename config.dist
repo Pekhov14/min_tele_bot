@@ -1,0 +1,8 @@
+<?php
+
+define(ID_ADMIN, 438782514);
+
+$TOKEN = '';
+$BOT_USERNAME = '';
+$webhook = 'https://';
+$url = 'https://api.telegram.org/bot'.$TOKEN.'/';
